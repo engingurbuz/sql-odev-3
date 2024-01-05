@@ -1,1 +1,1 @@
-# sql_odev_3
+# sql-odev-3
